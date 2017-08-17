@@ -1,16 +1,6 @@
 body {
   background-color: #ACA092;
   background-image: url("https://s19.postimg.org/wdr2xnwsz/repeating_vintage_paper_background.jpg");
-  /*
- https://s19.postimg.org/o789xklhv/html_code_dark_brown.jpg
-  
- https://s19.postimg.org/wdr2xnwsz/repeating_vintage_paper_background.jpg
-  https://s19.postimg.org/wdr2xnwsz/repeating_vintage_paper_background.jpg
-  https://s19.postimg.org/66pw1pej7/gray_triangles_background_pattern.jpg
-  https://s19.postimg.org/bw64m0kpf/simple_gray_texture.jpg
-  
-  font-family: 'lato', sans-serif;
-  */
   font-family: 'Bitter', serif
 }
 
@@ -53,7 +43,7 @@ body {
 }
 .btn-pad-right {
   margin-right: 3em;
-} 
+}
 @media (max-width: 1000px) {
   /* Center navbar collapsed navigation */
   .navbar-nav {
@@ -161,7 +151,7 @@ p {
   margin-left: -1em;
 }
 .img-rotate {
-  width: 10em; 
+  width: 10em;
   height: 10em;
   margin-right: 2em;
   margin-top: 2.5em;
@@ -175,11 +165,11 @@ p {
 #pic-frame {
   /* #1 */
   border: 5px solid hsl(0, 0%, 40%);
-  
+
   /* #2 */
   padding: 5px;
   background: hsl(0, 0%, 20%);
-  
+
   /* #3 */
   outline: 5px solid hsl(0, 0%, 60%);
 }
@@ -211,11 +201,11 @@ p {
 #portfolio img {
   /* #1 */
   border: 5px solid hsl(0, 0%, 40%);
-  
+
   /* #2 */
   padding: 5px;
   background: hsl(0, 0%, 20%);
-  
+
   /* #3 */
   outline: 5px solid hsl(0, 0%, 60%);
 }
@@ -233,13 +223,13 @@ p {
 @media screen and (max-width: 1000px) {
   .pad-bot-left {
     padding-left: 6%;
-    padding-right: 6%; 
+    padding-right: 6%;
   }
 }
 @media screen and (max-width: 1000px) {
   .pad-bot-right {
     padding-left: 6%;
-    padding-right: 6%; 
+    padding-right: 6%;
   }
 }
 
@@ -314,7 +304,7 @@ fieldset > button {
 
 footer {
   background-color: darkblue;
-  font-size: 1em;  
+  font-size: 1em;
   padding-top: 0.6em;
 }
 footer p {
